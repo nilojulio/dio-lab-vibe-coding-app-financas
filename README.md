@@ -1,4 +1,8 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+<img width="533" height="2268" alt="image" src="https://github.com/user-attachments/assets/81e75ddb-278a-4427-a025-5c8a14113d15" /># 💸 App de Organização de Finanças Pessoais NILO APRENDENDO com Vibe Coding
+
+prd refinado co copilot web
+
+--- markdow
 
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
@@ -73,13 +77,128 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
+interações com lovable 
+> Crie um app de finanças Pessoais Com base No seguinte PRD: (Documento de Requisitos do Produto)
+> experimenei acessar com logine senha
+
+- Seu **prompt final**   (PRD)  Tecnologias Utilizadas
+Frontend
+React
+TypeScript
+Vite
+Tailwind CSS
+shadcn/ui
+Recharts
+Backend
+Supabase
+PostgreSQL
+Supabase Auth
+Supabase Realtime
+Inteligência Artificial
+OpenAI API
+Processamento de Linguagem Natural (NLP)
+Análise de transações financeiras
+Geração de insights financeiros
+Ferramentas
+Git
+GitHub
+Lovable
+VS Code
+📦 Instalação
+Pré-requisitos
+Node.js 18+
+npm ou yarn
+Git
+Clonar o Repositório
+git clone https://github.com/seu-usuario/comparity.git
+cd comparity
+Instalar Dependências
+npm install
+ou
+
+yarn install
+Configurar Variáveis de Ambiente
+Crie um arquivo .env na raiz do projeto:
+
+VITE_SUPABASE_URL=sua_url_supabase
+VITE_SUPABASE_ANON_KEY=sua_chave_supabase
+VITE_OPENAI_API_KEY=sua_chave_openai
+Executar o Projeto
+npm run dev
+Acesse:
+
+http://localhost:5173
+Gerar Build de Produção
+npm run build
+Visualizar Build Localmente
+npm run preview
+📂 Estrutura do Projeto
+src/
+├── components/
+├── pages/
+├── hooks/
+├── services/
+├── contexts/
+├── integrations/
+├── lib/
+└── types/
+🚀 Roadmap
+MVP
+Dashboard financeiro
+Registro de receitas por chat
+Registro de despesas por chat
+Classificação automática de categorias
+Relatórios financeiros
+Metas financeiras
+Agente financeiro inteligente
+Próximas Funcionalidades
+Importação de extratos bancários
+Integração com Open Finance
+Notificações inteligentes
+Planejamento financeiro avançado
+Aplicativo mobile
+Múltiplas contas financeiras
+
+
+
+  > resultado final do lovable: https://lovable.dev/projects/b46c4146-9239-4f73-a363-6d55cc1b7e60
+
+- Prints ou pequenos vídeos das interações com a IA; <img width="1263" height="747" alt="Captura de tela 2026-10-15 073413" src="https://github.com/user-attachments/assets/96b76ffa-96db-414e-80ee-fd743c9ef467" />
+
+- Um resumo do que o seu **App de Finanças Pessoais** faz;
+
+  # Sobre o Projeto
+
+é um aplicativo de controle financeiro pessoal baseado em conversas.
+
+A proposta é simplificar a gestão financeira permitindo que usuários registrem receitas e despesas por meio de linguagem natural, sem depender de planilhas ou formulários complexos.
+
+O sistema organiza automaticamente as transações, gera relatórios financeiros, acompanha metas de economia e fornece recomendações personalizadas para ajudar na tomada de decisões financeiras.
+
+## Funcionalidades
+
+- Registro de receitas e despesas via chat
+- Classificação automática de transações
+- Dashboard financeiro
+- Relatórios de gastos por categoria
+- Comparativo entre receitas e despesas
+- Metas financeiras
+- Recomendações inteligentes de economia
+
+## Objetivo
+
+Tornar o controle financeiro simples, acessível e intuitivo para pessoas que desejam organizar melhor suas finanças e desenvolver hábitos financeiros mais saudáveis.
+
+## Público-Alvo
+
+Pessoas que desejam organizar suas finanças de forma prática, especialmente iniciantes que buscam uma solução simples para acompanhar gastos e economizar dinheiro.
+
+
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+- 
+  - O que funcionou bem?  O uso daia compil Para fazer o refinamento do PRD ? Dá um resultado que fez a gente fica impressionado Muito
+  - O que não funcionou como o esperado?  Quando montei ele já saiu com os valores hipotéticos Que me causou uma certa estranheza mas depois eu consegui entender
+  - O que aprendeu sobre conversar com IAs? Aprendi que basicamente é Como se conversar com uma pessoa Porém prestar atenção em ser sempre didático E assertivo ao conversar
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
